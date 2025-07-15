@@ -1,13 +1,20 @@
-﻿# Default ignored files
-/shelf/
-/workspace.xml
-# Rider ignored files
-/.idea.ConsoleApp1.iml
-/modules.xml
-/projectSettingsUpdater.xml
-/contentModel.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+﻿# Rider
+.idea/
+*.sln.iml
+
+# Build
+bin/
+obj/
+
+# User-specific
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
